@@ -1,5 +1,7 @@
 Tsup friends its Çÿbēr again
 
+[Note: required to have over 2gb of free space and 1gb of ram]
+
 USEFUL COMMAMDS TO GO AFTER
 
 <p>nethunter kex passwd -----> configure the KeXpassword (only needed before 1st use)</p>
